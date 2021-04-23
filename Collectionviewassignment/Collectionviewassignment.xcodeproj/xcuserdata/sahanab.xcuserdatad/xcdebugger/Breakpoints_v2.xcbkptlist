@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "456BA3EF-4BA0-440E-9BEC-5B0756EC55C8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "700DB88F-A649-4BC5-B55A-E6803B0FB912"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Collectionviewassignment/Model/ImageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8AA83D0-4294-49CB-8A91-845EF4CE9691"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Collectionviewassignment/Model/ImageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8AA83D0-4294-49CB-8A91-845EF4CE9691 - 13a5e59f898dee63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collectionviewassignment.ImageManager.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "Collectionviewassignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahanab/Desktop/Development/Collectionviewassignment/Collectionviewassignment/Model/ImageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "C8AA83D0-4294-49CB-8A91-845EF4CE9691 - 52a41ce210f0c6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Collectionviewassignment.ImageManager.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "Collectionviewassignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahanab/Desktop/Development/Collectionviewassignment/Collectionviewassignment/Model/ImageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
